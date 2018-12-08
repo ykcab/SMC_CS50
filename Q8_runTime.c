@@ -1,3 +1,8 @@
+/*
+Author: ykcab
+Section: SMC CS50
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
