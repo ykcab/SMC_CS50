@@ -1,7 +1,7 @@
 /*
 This is Assigment 2 in CS50
 College: Santa Monica College
-Author: Alain Mbuku
+Author: ykcab
 Version: 1.0 x86
 The program consist of evaluating the total mark of a student using the formula:
 Total Weighted Score = (average assignments)*40% + (midterm)*30% + (final exam)*30%
