@@ -1,5 +1,5 @@
 /*
-Author: Alain Mbuku
+Author: ykcab
 Section: SMC CS50
 Module: 7
 Assignment: 7
